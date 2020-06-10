@@ -18,5 +18,7 @@ public class MainActivity extends AppCompatActivity {
         int aaaa =1;
        int  as =4;
        int  aas =4;
+       boolean fghdjk;
+        boolean fg11hdjk;
     }
 }
