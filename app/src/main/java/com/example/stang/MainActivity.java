@@ -22,5 +22,11 @@ public class MainActivity extends AppCompatActivity {
         boolean fg11hdjk;
        boolean asa =true;
        boolean asgfcgu;
+       new Thread(new Runnable() {
+           @Override
+           public void run() {
+
+           }
+       }).start();
     }
 }
